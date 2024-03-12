@@ -4,10 +4,11 @@
   "description": "A useless token",
   "seller_fee_basis_points": 100,
   "external_url": "https://github.com/rexdavinci/cross-chain-token",
+  "image": "https://i.imgur.com/k830wX0.jpeg",
   "attributes": [
     {
       "trait_type": "uselessness",
-      "value": 100
+      "value": "100"
     }
   ],
   "properties": {
@@ -25,6 +26,5 @@
         "share": 100
       }
     ]
-  },
-  "image": "https://i.imgur.com/k830wX0.jpeg"
+  }
 }
