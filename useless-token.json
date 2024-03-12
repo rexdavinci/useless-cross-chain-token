@@ -1,6 +1,6 @@
 {
   "name": "Useless Token",
-  "symbol": "Useless",
+  "symbol": "USELESS",
   "description": "A useless token",
   "seller_fee_basis_points": 100,
   "external_url": "https://github.com/rexdavinci/cross-chain-token",
