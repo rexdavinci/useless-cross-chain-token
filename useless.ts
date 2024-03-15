@@ -42,6 +42,7 @@ const decimals = 9 // token decimals during token creation
 const uselessTokenAddressSPL = '6QWe8neoMdYUcv7LRnaBguVHTEKxC59j6Fhw8XT2pxqW' // address generated after token was minted
 const mySOLWalletAddress = 'uSEZwk76nxzBCbbPzD9Yc191wYdkQu5wN8GmV7p5zSo'
 const uselessTokenAddressBSC = '0x84109ff145Df1F2f3df12AD57BC104d96E034f58' // address generated after token was minted
+const uselessPurseAddressBSC = '0x3B156913F104287eb1cA166C3cf5F8F0f59e561E' // address generated after purse was deployed
 
 const bscConn = new JsonRpcProvider('https://go.getblock.io/3be5d24b27a9492c9ab2a67e051fbe00')
 const uselessPurse = new Contract(uselessTokenAddressBSC, abi, bscConn)
